@@ -1,0 +1,10 @@
+Wed May 22 8:16:35 CEST 2024 - (Flight) - Arbel Pogi has logged in8:16:35 CEST 2024 - (Flight) - Welcome!
+Wed May 22 8:16:35 CEST 2024 - (Flight) - Seats are available for 2 passenger/s on 2024-04-15.
+Wed May 22 8:16:35 CEST 2024 - (Flight) - Flight booked successfully for 2 passenger/s.
+Wed May 22 8:16:35 CEST 2024 - (Flight) - Flight Number: FL221
+Wed May 22 8:16:35 CEST 2024 - (Flight) - Passenger Name: Arbel Perez, Katrina Tamondong
+Wed May 22 8:16:35 CEST 2024 - (Flight) - Passenger ID: 2210179
+Wed May 22 8:16:35 CEST 2024 - (Flight) - Departure: Manila
+Wed May 22 8:16:35 CEST 2024 - (Flight) - Destination: Japan
+Wed May 22 8:16:35 CEST 2024 - (Flight) - Date: 2024-04-22
+Date: 2024-04-15
